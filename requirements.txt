@@ -1,0 +1,6 @@
+mysql==0.0.3
+mysql-connector-python==8.3.0
+Scrapy==2.11.1
+pymongo==3.11.1
+psycopg2==2.9.9
+mysqlclient==2.2.4
